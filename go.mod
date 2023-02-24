@@ -22,9 +22,9 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/lestrrat-go/strftime v1.0.6
 	github.com/mattn/go-isatty v0.0.14
-	github.com/nine-lives-later/go-windows-terminal-sequences v1.0.4 // indirect
+	github.com/nine-lives-later/go-windows-terminal-sequences v1.0.4
 	github.com/pkg/profile v1.6.0
 	github.com/stretchr/testify v1.8.0
-	golang.org/x/sys v0.0.0-20211019181941-9d821ace8654
-	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
 )
